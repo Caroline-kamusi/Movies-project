@@ -22,7 +22,7 @@ We believe that the "success" of a film can be measured by the revenue that it b
 ![alt text](images/Domestic_vs_Worldwide_mean.png)
 
  ## Recommendation 3
-<img src="images/Runtime_vs_profit.png)" alt="Runtime" width="650" height="450">
+<![alt text](images/Runtime_vs_profit.png)
 
 
  ## Conclusion and Recommendations
